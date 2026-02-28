@@ -14,13 +14,13 @@ While I have experience building web and mobile applications, my main direction 
 
 ## Current Technical Focus
 ---
-C++ (standard library, memory management, pointers/references, OOP fundamentals)
-Engineering-Oriented Programming Interests
-Data structures and algorithm implementation from scratch
-Numerical methods and mathematical computation
-Simulation of engineering systems
-Efficient use of memory and processing resources
-Structured debugging and performance analysis
+- C++ (standard library, memory management, pointers/references, OOP fundamentals)
+- Engineering-Oriented Programming Interests
+- Data structures and algorithm implementation from scratch
+- Numerical methods and mathematical computation
+- Simulation of engineering systems
+- Efficient use of memory and processing resources
+- Structured debugging and performance analysis
 
 ## Previous Development Experience
 ---
