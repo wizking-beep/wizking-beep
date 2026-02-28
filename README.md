@@ -1,54 +1,57 @@
-# 👋 Hi, I’m Brian Baraka
+# Brian Baraka
+Electrical & Electronics Engineering Student
+Focused on C++ and Engineering-Oriented Software Development
 
-Welcome to my GitHub! I'm a passionate software developer and engineering student at **Jomo Kenyatta University of Agriculture and Technology (JKUAT)** pursuing a degree in **Electrical and Electronics engineering**.
+## About
+I am an Electrical and Electronics Engineering student at JKUAT with a growing focus on C++ and structured problem-solving.
+My current priority is strengthening my understanding of:
+- Programming logic and algorithmic thinking
+- Memory management and data structures in C++
+- Writing efficient, predictable code
+- Applying software principles to engineering problems
 
-## 🚀 About Me
+While I have experience building web and mobile applications, my main direction now is deeper technical competence in systems-level programming and engineering-focused computation.
 
-- 🧠 I love building **full-stack web** and **mobile applications**
-- 🏗️ Currently focusing on creating **production-ready React Native apps** with **Expo**
-- 🌱 Always learning and improving my skills — especially in **backend engineering**
-- 🤝 I’m open to **collaborations**, internships, and tech communities!
-
+## Current Technical Focus
 ---
+C++ (standard library, memory management, pointers/references, OOP fundamentals)
+Engineering-Oriented Programming Interests
+Data structures and algorithm implementation from scratch
+Numerical methods and mathematical computation
+Simulation of engineering systems
+Efficient use of memory and processing resources
+Structured debugging and performance analysis
 
-## 💻 Tech Stack
-
-### Languages & Tools
-- ⚙️ **JavaScript**, **C**, **Node.js**
-- ⚛️ **React.js**, **React Native (Expo)**
-- 🌐 **Express.js**, **MongoDB**
-- 🔁 **REST APIs**, **Git**, **NPM/Yarn**
-- ☁️ **Railway**, **Render**, **Netlify**, **Vercel**
-
+## Previous Development Experience
 ---
+**Frontend & Mobile**
+- React.js
+- React Native (Expo)
 
-## 📈 Current Focus
+**Backend**
+- Node.js
+- Express
+- REST APIs
+- MongoDB
 
-- Building a **cross-platform social media app** using React Native + Node.js(Coming soon😁)  
-- Diving deeper into **backend optimization**, **JWT auth**, and **MongoDB performance**  
-- Exploring **TypeScript** as I build in react native.
+**Language**
+- JavaScript / TypeScript
 
+## Current Work
 ---
+Strengthening C++ fundamentals through structured problem-solving
+Implementing core data structures manually
+Studying computational methods applicable to electrical systems
+Building small console-based engineering tools
 
-## 📫 How to Reach Me
-
-- 📧 Email: **barakabrian003@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/brian-baraka](https://linkedin.com/in/brian-baraka)
-- 🐦 Twitter: [@beetechnoob](https://x.com/beetechnoob?t=s_Br86zO_4ZRVuysPRGGdA&s=08)
-- 🌍 Portfolio (coming soon...)
-
+## Approach
 ---
+I prefer understanding how things work internally rather than relying only on high-level abstractions.
+My engineering background shapes how I write software:
+clear logic, predictable behavior, and attention to efficiency.
 
-## 😄 Pronouns: He/Him  
-## ⚡ Fun Fact: I can debug better at 3am than 3pm ☕  
-## 🔍 Interests: Mobile apps, open-source, Web applications
-
+## Contact
 ---
-
-> 📍 _“Learning never exhausts the mind — it only fuels innovation.”_
-
-<!---
-wizking-beep/wizking-beep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+- Email: [barakabrian003@gmail.com](mailto:barakabrian003@gmail.com)
+- LinkedIn: https://linkedin.com/in/brian-baraka
+- X (Twitter): https://x.com/beetechnoob
